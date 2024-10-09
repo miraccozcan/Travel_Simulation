@@ -1,8 +1,9 @@
 # Travel Simulator Project
 
-## UML Design
-- **Preview**: ![Preview](images/preview.png)
-- **UML Diagram**: ![UML](images/uml.png)
+## Preview
+![Preview](images/preview.png)
+## UML Diagram
+![UML](images/uml.png)
 
 ## What type of a design pattern (creational, structural, behavioural, custom) did you employ in this assignment? Why?
 **Type**: Structural  
