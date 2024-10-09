@@ -42,6 +42,7 @@
    javac -d . *.java legacy/*.java
 
 ### Project Structure
+```plaintext
 TravelSimulatorProject/
 ├── src/
 │   ├── TravelSimulation.java
@@ -58,3 +59,4 @@ TravelSimulatorProject/
 │   ├── preview.png
 │   └── uml.png
 ├── README.md
+```
