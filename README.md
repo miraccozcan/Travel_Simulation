@@ -1,6 +1,6 @@
 # Travel Simulator Project
 
-## Preview
+## Output
 ![Preview](images/preview.png)
 ## UML Diagram
 ![UML](images/uml.png)
