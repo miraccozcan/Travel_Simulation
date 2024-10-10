@@ -32,8 +32,8 @@
 
 ## How to Run the Project
 ### Prerequisites
-- Java Development Kit (JDK) installed (preferably JDK 8 or higher).
-- IDE or command line setup for Java development.
+- Java Development Kit
+- IDE
 
 ### Steps to Compile and Run
 1. **Compile the Project:**
