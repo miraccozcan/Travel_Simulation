@@ -3,7 +3,7 @@
 ## Output
 ![Preview](images/preview.png)
 ## UML Diagram
-![UML](images/uml.png)
+![UML](images/uml.jpeg)
 
 ## What type of a design pattern (creational, structural, behavioural, custom) did you employ in this assignment? Why?
 **Type**: Structural  
